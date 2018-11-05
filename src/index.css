@@ -12,3 +12,52 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.main {
+  background-image: url(https://africageographic.com/wp-content/uploads/2015/12/cheetah-hunt.jpg);
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  text-shadow: 0.1rem 0.1rem 0.1rem black, -0.1rem -0.1rem 0.1rem black,
+    -0.1rem -0.1rem 0.1rem black, 0.1rem 0.1rem 0.1rem black;
+}
+.all {
+  padding: 2%;
+  background-image: url(https://i.makeagif.com/media/6-17-2015/QNQU80.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 70%;
+  color: rgba(255, 255, 255, 0.993);
+}
+.field {
+  padding: 2%;
+  background-image: url(https://i.gifer.com/EkOl.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 70%;
+  color: rgb(221, 18, 18);
+}
+.nofield {
+  padding: 2%;
+  color: white;
+  background-image: url(http://ezonevirtualservices.com/wp-content/uploads/website-not-field-of-dreams-e1365363673569.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: rgb(98, 236, 190);
+  width: 70%;
+}
+.totals {
+  color: blueviolet;
+  padding: 2%;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIJuGOy7L2jOEnaIobHu9FTusQFE54cniBNya9rPWQWaWdjEUH);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 70%;
+}
+.total {
+  padding: 2%;
+  background-image: url(https://parabolaorg-4jzhg7c.stackpathdns.com/wp-content/uploads/2016/07/wizard-of-oz-original1.jpg);
+  color: yellowgreen;
+  background-size: cover;
+  width: 70%;
+}
